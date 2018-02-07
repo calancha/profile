@@ -1,0 +1,15 @@
+body {
+    /* color: rgb(10,10,10); */
+    background-color: rgb(220,220,220);
+    /* background-color: rgb(255,255,255); */
+    width: 1000px;
+    margin: 50px auto;
+}
+
+h1 {
+    /* color: red; */
+}
+
+a {
+    text-decoration: none;
+}
